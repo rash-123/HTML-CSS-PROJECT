@@ -15,7 +15,7 @@ No. | Project        | GitHub Repo            | Demo
 01| Tooltip | [GitHub Repo](https://github.com/rash-123/tooltip) | [Tooltip](https://rash-123.github.io/tooltip/) ✅
 02| Emoji Art | [GitHub Repo](https://github.com/rash-123/emoji-art) | [Emoji Art](https://rash-123.github.io/emoji-art/) ✅
 03| Advanced Hover Effect | [GitHub Repo](https://github.com/rash-123/advanced-hover-effect) | [Advanced Hover Effect](https://rash-123.github.io/advanced-hover-effect/) ✅
-
+04| Animated Page Load | [GitHub Repo](https://github.com/rash-123/animated-page-loading) | [Animated Page Load](https://rash-123.github.io/animated-page-loading/) ✅
 
 # BEGINNER
 
